@@ -44,4 +44,5 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 plugins:
-  #- mkdocs-pdf
+  - mkdocs-pdf
+  #- with-pdf
